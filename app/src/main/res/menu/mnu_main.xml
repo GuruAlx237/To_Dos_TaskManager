@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/mnu_edt_usr"
+        android:title="@string/edt_usr"
+        app:showAsAction="never"
+        android:visible="false"/>
+
+    <item
+        android:id="@+id/mnu_clo_ses"
+        android:title="@string/clo_ses"
+        app:showAsAction="never"/>
+
+</menu>
